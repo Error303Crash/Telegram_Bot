@@ -1,2 +1,2 @@
-# Telrgram-Bot
+# Telegram-Bot
 Bot for telegram
